@@ -1,0 +1,14 @@
+{
+    "adresses":{
+        "servers":{
+            "test":["10.00.147.228", 
+                    "10.00.147.229",
+                    "10.00.147.230",
+                    "10.00.147.231",
+                    "10.00.147.232"],
+            "prod":[]
+        },
+        "configURL":"https://raw.githubusercontent.com/Rumotameru/Rumotameru/main/README.md"
+        
+    }
+}
