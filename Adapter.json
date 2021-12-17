@@ -9,7 +9,7 @@
         "EnableOfflineMode": false,
         "EnvironmentKey": "dev",
         "EpSalVersion": "[203000)",
-        "MBMode": false,
+        "MBMode": true,
         "LogPath": "E:\\.Logs"		
     }, 
    "EventProcessor": {
