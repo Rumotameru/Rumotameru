@@ -1,0 +1,22 @@
+{
+    "Adapter": {
+        "Name": "Pay.Merchants.Back2"
+    },
+    "Service": {
+        "AdapterDependency": [],
+        "DataPath": "",
+        "DiskStorePath": "",
+        "EnableOfflineMode": false,
+        "EnvironmentKey": "dev",
+        "EpSalVersion": "[203000)",
+        "MBMode": false,
+        "LogPath": "E:\\.Logs"		
+    }, 
+   "EventProcessor": {
+    "Threads": 1,
+    "LogSettings": {
+      "FullRequest": true,
+      "IgnoreRequest": [ "TCB.SAL.*", "TCB.Endpoint.*" ]
+    }
+  }
+}
