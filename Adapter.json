@@ -10,7 +10,7 @@
         "EnvironmentKey": "dev",
         "EpSalVersion": "[203000)",
         "MBMode": true,
-        "LogPath": "E:\\.Logs"		
+        "LogPath": "E:\\.Log"		
     }, 
    "EventProcessor": {
     "Threads": 1,
